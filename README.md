@@ -18,7 +18,7 @@
 
 ### Let's Connect
 - 📫 Email: sathsarajayantha@myyahoo.com
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sathsara-jayantha-62b814344/)
+- 🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sathsara-jayantha-62b814344/)
 
 ### Fun Facts
 - 🎮 I love playing strategy video games in my free time.
