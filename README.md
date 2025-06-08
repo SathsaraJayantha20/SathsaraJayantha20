@@ -25,7 +25,7 @@
 - 📖 I'm an avid reader of tech and science fiction books.
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathsaraJayantha20&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathsaraJayantha01&show_icons=true&theme=radical)
 
 ### Collaborate with Me
 💡 I'm open to collaborating on exciting projects in data science or software development!  
