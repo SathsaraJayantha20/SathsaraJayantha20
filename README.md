@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SathsaraJayantha20
+- 👋 Hi, I’m @SathsaraJayantha01
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Software Development
 
